@@ -1,0 +1,27 @@
+which:             left          # default: 1 --> left, 2 --> right
+tag_rotation:      0          # 0: anticlockwise  0; 1: anticlockwise  90; 2: anticlockwise 180; 3: anticlockwise 270
+tag_threads:       4          # default: 2
+tag_decimate:      2.0        # default: 1.0
+opt_method:        0
+standalone_tags:
+  [
+    {id: 101, size: 0.8},
+    {id: 102, size: 0.8},
+    {id: 103, size: 0.8},
+    {id: 104, size: 0.8},
+    {id: 105, size: 0.8},
+    {id: 106, size: 0.8},
+    {id: 107, size: 0.8},
+    {id: 108, size: 0.8},
+    {id: 109, size: 0.8},
+    {id: 1, size: 0.32},
+    {id: 2, size: 0.32},
+    {id: 3, size: 0.32},
+    {id: 4, size: 0.32},
+    {id: 5, size: 0.32},
+    {id: 6, size: 0.32},
+    {id: 7, size: 0.32},
+    {id: 8, size: 0.32},
+    {id: 9, size: 0.32}
+  ]
+
